@@ -19,7 +19,7 @@ body {
 header {
   background-color: black;
   color: white;
-  padding: 20px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -58,7 +58,7 @@ header nav a:hover {
 .container {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 30px;
+  gap: 20px;
   padding: 20px;
 }
 
@@ -69,7 +69,7 @@ header nav a:hover {
    /*background-color: #afd2de;*/
    background:radial-gradient(circle, rgb(170 134 161 / 41%) 0%, rgb(127 82 82 / 78%) 100%);
    padding: 20px;
-   border-radius: 8px;
+   border-radius: 20px;
    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -94,7 +94,7 @@ grid-template-areas:
 gap: 20px;
 /*background-color: #afd2de;*/
 padding: 20px;
-border-radius: 8px;
+border-radius: 20px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -175,7 +175,7 @@ gap: 20px;
 background-color: #afd2de;
 background: radial-gradient(circle, rgb(105 99 178 / 83%) 0%, rgb(44 63 61 / 43%) 100%);
 padding: 20px;
-border-radius: 8px;
+border-radius: 20px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -213,8 +213,8 @@ color: black;
 #btn {
   display: none;
   position: fixed;
-  bottom: 22px;
-  right: 22px;
+  bottom: 3px;
+  right: 19px;
   z-index: 99;
   font-size: 18px;
   border: none;
