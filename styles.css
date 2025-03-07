@@ -65,8 +65,12 @@ header nav a:hover {
   padding: 20px;
 }
 
-.container a:hover {
-  color: blue;
+a:hover {
+  color: #007BFF;
+  }
+
+a:hover {
+  color: #0056b3;
   }
 
 .about {
